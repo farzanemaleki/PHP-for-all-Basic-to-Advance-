@@ -4,7 +4,7 @@ This repository covers all the basics of PHP. Simply follow the repository in or
 
 - php syntax
 - Constants & Variable Variables
-- Data Types & Casting
+- Data Types & Type Casting
 - Boolean Data Type
 - Integer Data Type
 - Float Data Type
